@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "index.html": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
